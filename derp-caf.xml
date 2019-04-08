@@ -12,7 +12,7 @@
     <linkfile dest="build/tools" src="tools"/>
   </project>
   <project name="build_kati" path="build/kati" remote="derpt" />
-  <project name="build_soong" path="build/soong" remote="derpt">
+  <project name="build_soong" path="build/soong" remote="derp">
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
