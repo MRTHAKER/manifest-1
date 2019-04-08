@@ -52,7 +52,7 @@
   <project name="packages_apps_DerpZone" path="packages/apps/DerpZone" remote="derpt" revision="rebase" />
   <project name="packages_apps_SmartNavSettings" path="packages/apps/SmartNavSettings" remote="derp" />
   <project name="packages_apps_SmartNav" path="packages/apps/SmartNav" remote="derp" />
-  <project name="packages_apps_Launcher3" path="packages/apps/Launcher3" remote="derpt" revision="rebase" />
+  <project name="packages_apps_Launcher3" path="packages/apps/Launcher3" remote="derp" />
   <project name="packages_apps_OmniStyle" path="packages/apps/OmniStyle" remote="derp" />
   <project name="packages_services_OmniJaws" path="packages/services/OmniJaws" remote="derp" />
   <project name="packages_apps_Settings" path="packages/apps/Settings" remote="derpt" />
