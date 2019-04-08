@@ -79,7 +79,7 @@
   <project name="vendor_derp" path="vendor/derp" remote="derp" />
   <project name="vendor_codeaurora_commonsys_telephony" path="vendor/codeaurora/commonsys/telephony" remote="derpt" />
   <project name="vendor_nxp_opensource_commonsys_packages_apps_Nfc" path="vendor/nxp/opensource/commonsys/packages/apps/Nfc" remote="derp" />
-  <project name="vendor_nxp_opensource_halimpl" path="vendor/nxp/opensource/halimpl" remote="derp" />
+  <project name="vendor_nxp_opensource_halimpl" path="vendor/nxp/opensource/halimpl" remote="derpt" />
   <project name="vendor_qcom_opensource_commonsys_bluetooth_ext" path="vendor/qcom/opensource/commonsys/bluetooth_ext" remote="derpt"/>
   <project name="vendor_qcom_opensource_core-utils" path="vendor/qcom/opensource/core-utils" remote="derpt">
     <linkfile dest="vendor/qcom/build/tasks/QSSI_violators.mk" src="build/QSSI_violators.mk"/>
