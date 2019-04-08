@@ -10,8 +10,12 @@
            sync-j="4" />
 
 <remote    name="derp"
-           fetch="https://github.com/derpcaf"
+           fetch="https://github.com/derp-caf"
            revision="p" />
+
+<remote    name="derpt"
+           fetch="https://github.com/derpcaf"
+           revision="6700" />
 
 <remote    name="github"
            fetch="https://github.com/" />
